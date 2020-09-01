@@ -4,13 +4,12 @@ Acolytes is a multi-game guild that began in 2005 with Age of Conan and over the
 
 The WoW Classic chapter currently operates on the Atiesh server (PvE US-West) and is a progression raiding guild with the goal of quickly and efficiently tackling content while having as much fun as possible along the way.
 
-We currently operate two different raid groups on a weekly basis.
-DKP Blue -- Tuesday/Thursday/Sunday 6:30pm-9:30pm server time.
-DKP Orange -- Wednesday/Friday/Monday 6:30pm-9:30pm server time.
+We currently operate two different raid groups on a weekly basis.  
+**Raid Blue** - Tuesday/Thursday/Sunday 6:30pm-9:30pm server time.  
+**Raid Orange** - Wednesday/Friday/Monday 6:30pm-9:30pm server time.
 
-This reference document contains information pertaining to raiding with Acolytes that should be helpful to all players.
-
-For questions/comments/concerns regarding this document, please contact Curse (Curse#3793) on discord
+This reference document contains information pertaining to raiding with Acolytes that should be helpful to all players.  
+*For questions/comments/concerns regarding this document, please contact Curse (Curse#3793) on [discord](https://discord.gg/bpv72Z)*
 
 ## [Important Links](#important-links)
 
