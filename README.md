@@ -25,5 +25,8 @@ Our proprietary raiding addon. This link will always take you to the most up-to-
 [Guild Bank site](https://classicguildbank.com/#/user/invite/qCKgtVP0SDrdbG7ARPoQ)  
 Although Classic WoW has no official guild banks, we upload the contents of our guild bank characters to this CGB platform for easy viewing and accountability.
 
+[Primer Revision History](https://github.com/Curse-Atiesh/raid-primer/commits/master)  
+See every revision made to this primer since converting it to a git repo.
+
 ## [How to Sign Up](#sign-up)
 
