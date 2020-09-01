@@ -1,4 +1,4 @@
-## Acolytes Raid Primer
+## [Acolytes Raid Primer](#)
 
 Acolytes is a multi-game guild that began in 2005 with Age of Conan and over the years has expanded in a multitude of games across the entire gaming spectrum with chapters in World of Warcraft: Classic, Retail World of Warcraft, Elder Scrolls Online, Archeage, Everquest, and more.
 
@@ -12,7 +12,7 @@ This reference document contains information pertaining to raiding with Acolytes
 
 For questions/comments/concerns regarding this document, please contact Curse (Curse#3793) on discord
 
-## Important Links
+## [Important Links](#important-links)
 
 [Acolytes Community Discord](https://discord.gg/bpv72Z)  
 Apply for Classic WoW or any of the other games Acolytes are in via Discord. 99% of our communication happens through Discord.
@@ -26,5 +26,5 @@ Our proprietary raiding addon. This link will always take you to the most up-to-
 [Guild Bank site](https://classicguildbank.com/#/user/invite/qCKgtVP0SDrdbG7ARPoQ)  
 Although Classic WoW has no official guild banks, we upload the contents of our guild bank characters to this CGB platform for easy viewing and accountability.
 
-## How to Sign Up
+## [How to Sign Up](#sign-up)
 
