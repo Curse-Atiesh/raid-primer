@@ -1,4 +1,4 @@
-## [Acolytes Raid Primer](#)
+## [Introduction](#)
 
 Acolytes is a multi-game guild that began in 2005 with Age of Conan and over the years has expanded in a multitude of games across the entire gaming spectrum with chapters in World of Warcraft: Classic, Retail World of Warcraft, Elder Scrolls Online, Archeage, Everquest, and more.
 
