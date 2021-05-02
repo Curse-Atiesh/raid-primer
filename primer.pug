@@ -4,15 +4,7 @@ p Acolytes is a multi-game guild that began in 2005 with Age of Conan and over t
 
 p The WoW Classic chapter currently operates on the Atiesh server (PvE US-West) and is a progression raiding guild with the goal of quickly and efficiently tackling content while having as much fun as possible along the way.
 
-p We currently raid on a rotating bi-weekly schedule of:<br>
-  strong: span.label.label-default Schedule A
-  |  Week 1 - Tuesday/Thursday 6:30pm-9:30pm server time.<br>
-  strong: span.label.label-default Schedule A
-  |  Week 2 - Tuesday/Thursday 6:30pm-9:30pm server time.<br>
-  strong: span.label.label-default Schedule B
-  |  Week 3 - Wednesday/Friday 6:30pm-9:30pm server time.<br>
-  strong: span.label.label-default Schedule B
-  |  Week 4 - Wednesday/Friday 6:30pm-9:30pm server time.
+p We currently raid Tuesday/Thursday 6:30pm-9:30pm server time.
 
 p This reference document contains information pertaining to raiding with Acolytes that should be helpful to all players. <br>
   em For questions/comments/concerns regarding this document, please contact Curse (Curse#3793) on #[a(href='https://discord.gg/YAuWqW6Ceq' target='_blank') discord]
@@ -24,9 +16,6 @@ p: a(href='https://discord.gg/YAuWqW6Ceq' target='_blank') Acolytes Community Di
 
 p: a(href='https://dkp.acolytesgaming.org' target='_blank') DKP Roster/Calendar </a><br>
   | Create an account, link your characters and begin signing up for raids and tracking your dkp!
-
-p: a(href='https://classicguildbank.com/#/user/invite/qCKgtVP0SDrdbG7ARPoQ' target='_blank') Guild Bank site </a><br>
-  | Although Classic WoW has no official guild banks, we upload the contents of our guild bank characters to this CGB platform for easy viewing and accountability.
 
 p: a(href='https://github.com/Curse-Atiesh/raid-primer/commits/master' target='_blank') Primer Revision History </a><br>
   | See every revision made to this primer since converting it to a git repo.
@@ -41,13 +30,13 @@ p: a(href='https://www.curseforge.com/wow/addons/threatclassic2/files' target='_
   
 p: a(href='https://www.curseforge.com/wow/addons/deadly-boss-mods/files' target='_blank') Deadly Boss Mobs (DBM) </a><br>
   | This addon suite provides timers and notices for raid encounters. And must be updated regularly
+  
+p: a(href='https://www.curseforge.com/wow/addons/exorsus-raid-tools/files' target='_blank') Exorsus Raid Tools </a><br>
+  | ExRT is our primary assignments and raid management tool. It is required for all raiders.
 
 p: a(href='https://www.curseforge.com/wow/addons/healcommclassic/files' target='_blank') HealComm </a><br>
   | Healcomm is a predictive healing addon/library that allows other members of the raid to see incoming healing across the raid. If you use a unit frame replacement addon you probably already have healcomm built in. To check, use the follwing command in-game (it will return your version of healcomm in the chat window if you have it, nothing if you do not)<br>
   code /run for k in LibStub:IterateLibraries() do if string.match(string.lower(k),"healcomm") then print(k) end end
-
-p: a(href='https://www.curseforge.com/wow/addons/angry-assignments/files' target='_blank') Angry Assignments </a><br>
-  | All healers, tanks, and off-tanks are required to have this addon as healing and tank assignments are maintained via AA. Other raid members may also benefit from having AA installed.
 
 h2: a(href='#register') How to Register
 
@@ -91,14 +80,7 @@ h2: a(href='#earning-dkp') Earning DKP
 
 p Show up on-time and prepared to regularly scheduled raids and earn DKP based on the content cleared.
 
-p Raids across multiple raid nights will reward some fraction of the amount cleared but will add up to the full amount regardless of completion
-
-ul
-  li <s>Blackwing Lair - 8 DKP</s>
-  li <s>Ahn'Qiraj - 12 DKP</s>
-  li Naxxramas - 40 DKP
-  
-font(color="red") DKP earned from previous tier content may change based on our revised schedule in phase 6. There won't be enough time in the week for us to complete all raid content and thus it may not be fair to make these raids worth differing amounts.
+p In phase 6 of vanilla we are awarding a total of 36 DKP per week split evenly between raid nights.
 
 h2: a(href='#dkp-pools') DKP Pools Explained
 
@@ -176,10 +158,10 @@ h2: a(href='#bid-priority') Bid Priority
 
 strong Bids are considered in the following order:
 ol
-  li Raider MAIN-SPEC
-  li Acolyte/Alt/Trial MAIN-SPEC
-  li Raider OFF-SPEC
-  li Acolyte/Alt/Trial OFF-SPEC
+  li Main MAIN-SPEC
+  li Alt MAIN-SPEC
+  li Main OFF-SPEC
+  li Alt OFF-SPEC
   li All Ranks PVP/FARMING/MISC
   li All Ranks UNCONTESTED-ONLY
   
